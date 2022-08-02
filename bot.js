@@ -59,4 +59,4 @@ client.on("roleCreate", (role) =>
     }
 });
 
-client.login("OTkzMTU2NjkxOTYzMTYyNjY0.Gb-qFa.ELdKZkbQFGoscM9_QpBpyRR48D4phZkaahp3zY");
+client.login("tokenhere");
